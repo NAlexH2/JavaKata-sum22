@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>edu.pdx.cs410J.LightRoast.Kata</mainClass>
+              <mainClass>edu.pdx.cs410J.LightRoast.FooBarQix</mainClass>
             </manifest>
           </archive>
         </configuration>
