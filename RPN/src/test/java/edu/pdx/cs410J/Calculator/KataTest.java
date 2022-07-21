@@ -10,4 +10,7 @@ public class KataTest
     new Kata();
   }
 
+
+
+
 }
